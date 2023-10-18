@@ -86,6 +86,7 @@ html,body{
 #fotter{
 
     width:100vh;
+    font-size: 3vh;
     position:absolute;
     bottom: 20px;;
     display: flex;
@@ -96,7 +97,7 @@ html,body{
 }
 #fotter a
 {
-     
+    font-size: 1vh;
     color: white;
     text-decoration: none;
     text-transform: uppercase;
@@ -104,12 +105,16 @@ html,body{
 }
 
 #second{
+    color: antiquewhite;
+    padding: 12vw;
   width:100%;
   height:100vh;
   background-color: rgb(12, 10, 9);
 }
  .elem{
     width:100%;
+    padding: 2vw 1vw;
+
    border-top:  1px solid white;
 
 
